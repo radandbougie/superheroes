@@ -99,7 +99,7 @@ def create_hero(weapons=False, armors=False, health=False):
         "Storm",
         "Black Widow",
         "San Luis Obispo",
-        "Jodie Foster",
+        "Ted Kennedy",
         "San Francisco",
         "Bananas"]
     name = heroes[random.randint(0, len(heroes) - 1)]
